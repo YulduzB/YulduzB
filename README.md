@@ -1,4 +1,4 @@
- ###Hi there 👋
+ Hi there 👋
 
     
 - 😊 I'm Yulduz. I am a 3rd class student of Management Information Systems at the University of Kafkas.
