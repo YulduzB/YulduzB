@@ -7,7 +7,7 @@
  ✨   On my GitHub profile, I share the projects I am working on to improve my skills. 
  
  
-[![My Skills] (https://skillicons.dev/icons?i=js,html,css,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs)](https://skillicons.dev)
     
   
     
