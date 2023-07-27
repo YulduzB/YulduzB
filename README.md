@@ -2,7 +2,7 @@
    
  😊   I am Yulduz Buranabaeva, a fourth year student of Management Information Systems at Kafkas University.
  
- 🎈   I am working towards becoming a frontend developer and constantly learning new things. 
+ 🎈  I am working hard to become a web developer and always trying to learn new things. 
  
  ✨   On my GitHub profile, I share the projects I am working on to improve my skills. 
  
