@@ -1,17 +1,16 @@
                                            😊Hello! Meet Yulduz! 🌼    
-                                      
-<div align="right">
-  <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="300" />
-</div>
-
-<div align="left">
-  
-  ### :woman_technologist: About Me :
-  👋 Hi, I’m Yulduz
-  - 👀 I’m interested in ...
-  - 🌱 I’m currently learning Javascript
-  - 📫 How to reach me yulduzburanbaeva@gmail.com
-
+                                           
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <h3>:woman_technologist: About Me :</h3>
+    <p>👋 Hi, I’m Yulduz</p>
+    <p>- 👀 I’m interested in ...</p>
+    <p>- 🌱 I’m currently learning Javascript</p>
+    <p>- 📫 How to reach me yulduzburanbaeva@gmail.com</p>
+  </div>
+  <div style="flex: 1;">
+    <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="300" />
+  </div>
 </div>
 
 
