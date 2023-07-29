@@ -1,7 +1,7 @@
                                            😊Hello! Meet Yulduz! 🌼    
                                            
 <p align="center">
-  <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/Th4eDUkNM3BYRXnzQi/giphy.gif" width="200" />
 </p>
 
 ---
