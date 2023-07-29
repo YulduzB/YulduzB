@@ -4,11 +4,14 @@
   <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="300" />
 </p>
 
+---
+
 <h3 align="center">:woman_technologist: About Me :</h3>
 <p align="center">🌞I am a student of Management Information Systems at Kafkas University, and I am passionate about web development.</p>
 <p align="center">💡 My interest in coding allows me to turn my imagination into reality by creating projects, and I constantly strive to learn new things.</p>
 <p align="center">🚀 I am into HTML, CSS, and JavaScript, and I create interactive and captivating websites using these languages.</p>
 <p align="center">- 📫 How to reach me yulduzburanbaeva@gmail.com</p>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
