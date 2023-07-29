@@ -1,17 +1,19 @@
                                            😊Hello! Meet Yulduz! 🌼    
                                       
                                       
-  <div id="header" align="right">
+  <span> id="header" align="right">
   <img src=https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif width="300"/>
- </div>
-
- ---
- ### :woman_technologist: About Me :
+ </span>
+  ### :woman_technologist: About Me :
   👋 Hi, I’m Yulduz
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me yulduzburanbaeva@gmail.com
    ---
+
+ ---
+ 
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
