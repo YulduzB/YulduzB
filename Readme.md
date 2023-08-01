@@ -23,9 +23,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-<p align="left">
-  <img src="https://www.veed.io/view/65814f73-7826-4fdc-a79b-8d65146f1ffc?panel=share" width="200" />
-</p>
 
   
 
