@@ -8,8 +8,7 @@
 
 <h3 align="center">:woman_technologist: About Me :</h3>
 <p align="center">🌞I am a student of Management Information Systems at Kafkas University, and I am passionate about web development.</p>
-<p align="center">💡 My interest in coding allows me to turn my imagination into reality by creating projects, and I constantly strive to learn new things.</p>
-<p align="center">🚀 I am into HTML, CSS, and JavaScript, and I create interactive and captivating websites using these languages.</p>
+<p align="center">🚀I'm learning HTML, CSS, and JavaScript, and I'm using these skills to develop with React.</p>
 <p align="center">- 📫 How to reach me yulduzburanbaeva@gmail.com</p>
 
 ---
